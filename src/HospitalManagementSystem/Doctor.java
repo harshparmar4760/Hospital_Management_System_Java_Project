@@ -3,8 +3,6 @@ package HospitalManagementSystem;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.sql.SQLException;
-import com.mysql.cj.jdbc.PreparedStatementWrapper;
 
 public class Doctor {
     private Connection connection;
